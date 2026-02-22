@@ -1,0 +1,119 @@
+{
+  "reporting_year": {
+    "value": 2024
+  },
+  "currency": {
+    "value": "HKD"
+  },
+  "revenue_y0": {
+    "value": 105280000000.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 105280000000.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "revenue_y0_1": {
+    "value": 103330000000.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 103330000000.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "revenue_y0_2": {
+    "value": 103310000000.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 103310000000.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0": {
+    "value": 146391900.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 146391900.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0_1": {
+    "value": 139392600.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 139392600.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0_2": {
+    "value": 152569700.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 152569700.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0": {
+    "value": 54813.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 54813.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0_1": {
+    "value": 50774.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 50774.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0_2": {
+    "value": 44986.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 44986.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "scope_3_reporting_categories_y0": {
+    "value": 0
+  }
+}

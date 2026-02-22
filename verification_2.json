@@ -1,0 +1,119 @@
+{
+  "reporting_year": {
+    "value": 2024
+  },
+  "currency": {
+    "value": null
+  },
+  "co2_scope_1_y0": {
+    "value": 117.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 117.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0_1": {
+    "value": 137.84,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 137.84,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0_2": {
+    "value": 101.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 101.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0": {
+    "value": 12259.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 12259.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0_1": {
+    "value": 13565.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 13565.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0_2": {
+    "value": 14993.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 14993.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_3_y0": {
+    "value": 874.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 874.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_3_y0_1": {
+    "value": 578.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 578.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_3_y0_2": {
+    "value": 78.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 78.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "scope_3_reporting_categories_y0": {
+    "value": 1
+  }
+}

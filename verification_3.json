@@ -1,0 +1,59 @@
+{
+  "reporting_year": {
+    "value": 2024
+  },
+  "currency": {
+    "value": null
+  },
+  "co2_scope_1_y0": {
+    "value": 58326629.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 58326629.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_1_y0_1": {
+    "value": 48911825.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 48911825.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0": {
+    "value": 8057736.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 8057736.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "co2_scope_2_y0_1": {
+    "value": 5564027.0,
+    "unit": null,
+    "page": 1,
+    "source_type": "table",
+    "bbox": null,
+    "raw_text": "mock",
+    "normalized_value": 5564027.0,
+    "confidence": 0.7,
+    "extraction_method": "LLM Structured Output (gpt-4o) + Normalization",
+    "reasoning_summary": null
+  },
+  "scope_3_reporting_categories_y0": {
+    "value": null
+  }
+}

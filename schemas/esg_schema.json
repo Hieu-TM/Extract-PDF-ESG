@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "reporting_year": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "The most recent reporting year (Y0)."
+    },
+    "currency": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "The currency of the reported revenue, e.g., 'USD', 'EUR', 'GBP'."
+    },
+    "revenue": {
+      "type": "object",
+      "properties": {
+        "y0": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_1": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_2": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "y0",
+        "y0_1",
+        "y0_2"
+      ]
+    },
+    "co2_scope_1": {
+      "type": "object",
+      "properties": {
+        "y0": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_1": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_2": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "y0",
+        "y0_1",
+        "y0_2"
+      ]
+    },
+    "co2_scope_2": {
+      "type": "object",
+      "properties": {
+        "y0": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_1": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_2": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "y0",
+        "y0_1",
+        "y0_2"
+      ]
+    },
+    "co2_scope_3": {
+      "type": "object",
+      "properties": {
+        "y0": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_1": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "y0_2": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "y0",
+        "y0_1",
+        "y0_2"
+      ]
+    },
+    "scope_3_reporting_categories_y0": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "The number of Scope 3 reporting categories (from 0 to 15) for the most recent reporting year (Y0)."
+    }
+  },
+  "required": [
+    "reporting_year",
+    "currency",
+    "revenue",
+    "co2_scope_1",
+    "co2_scope_2",
+    "co2_scope_3"
+  ]
+}
